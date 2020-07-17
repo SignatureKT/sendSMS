@@ -11,8 +11,8 @@ server.starttls()
 server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
 
 #Message to be sent out
-subject = 'Test'
-message = 'Hello World'
+subject = 'Your Subject'
+message = 'Your Message'
 
 phoneNumbers = []
     
